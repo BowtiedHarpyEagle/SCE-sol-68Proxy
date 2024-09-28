@@ -11,6 +11,8 @@ pragma solidity ^0.8.13;
 // -Demo
 
 contract CounterV1 {
+    address public implementation;
+    address public admin;
     uint public count;
     
     function inc() external {
@@ -21,6 +23,8 @@ contract CounterV1 {
 }
 
 contract CounterV2 {
+    address public implementation;
+    address public admin;
     uint public count;
     
     function inc() external {

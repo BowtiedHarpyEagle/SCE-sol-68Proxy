@@ -7,12 +7,38 @@
 		"abi": [
 			{
 				"inputs": [],
+				"name": "admin",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "count",
 				"outputs": [
 					{
 						"internalType": "uint256",
 						"name": "",
 						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "implementation",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
 					}
 				],
 				"stateMutability": "view",
@@ -54,11 +80,11 @@
 	},
 	"sources": {
 		"TransparentUpgradeableProxy.sol": {
-			"keccak256": "0xefea5781ab06f4026c199cf5ed59745f9b43bd3df6637b8f074b83629133a0b6",
+			"keccak256": "0xfcfbcf36841d758e4120a86458d44b948b3645cf276e46a462e9519ff1393f2d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://76ccde0a2c59df73fbcd8844aa326a2d634f0d673d1c3bbecb1e29e99f98a1d2",
-				"dweb:/ipfs/QmfXgzdLgffWdEkwPZRrW4q56ysBVB5TLgHaCj3Vtw1ib2"
+				"bzz-raw://5bf5b6c2fb3179aea5d1a0adda7086a016771c210c530d3c2fc312746d06b079",
+				"dweb:/ipfs/QmabMdfg8UDriGRM1M6dKdgPvCSPm5J54YTPC1mw7R9vFt"
 			]
 		}
 	},
