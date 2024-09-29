@@ -86,11 +86,11 @@
 	},
 	"sources": {
 		"TransparentUpgradeableProxy.sol": {
-			"keccak256": "0xfcfbcf36841d758e4120a86458d44b948b3645cf276e46a462e9519ff1393f2d",
+			"keccak256": "0x007d36de6f60ef2576ed312126851d0969071ac5f3cc4b11fe9bdac20000a8af",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5bf5b6c2fb3179aea5d1a0adda7086a016771c210c530d3c2fc312746d06b079",
-				"dweb:/ipfs/QmabMdfg8UDriGRM1M6dKdgPvCSPm5J54YTPC1mw7R9vFt"
+				"bzz-raw://1b779ac2148ef7655a3dcb0ad1f6d1d25dd60e1bdd2e91cb8a723f1f17af73be",
+				"dweb:/ipfs/QmS5BDaW5wZsPFn1QL8i2DNuE1pDHMasMkisbpPw9riTYZ"
 			]
 		}
 	},
